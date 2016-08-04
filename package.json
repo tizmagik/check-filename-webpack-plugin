@@ -1,0 +1,27 @@
+{
+  "name": "check-filename-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Throws configured {error} for {regex} filename matches",
+  "main": "index.js",
+  "scripts": {
+    "xtest": "echo \"Error: no test specified\" && exit 1",
+    "test": "cd demo; npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tizmagik/check-filename-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "check filename",
+    "regex",
+    "filename"
+  ],
+  "author": "Jeremy Gayed (https://github.com/tizmagik)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tizmagik/check-filename-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/tizmagik/check-filename-webpack-plugin#readme"
+}
