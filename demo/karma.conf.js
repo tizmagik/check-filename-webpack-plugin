@@ -1,6 +1,6 @@
 const webpack = require('webpack');
 const webpackConfig = require('./webpack.config');
-const CheckFilenamePlugin = require('../index.js'); // use inside the npm package
+const CheckFilenamePlugin = require('../src/index.js'); // use inside the npm package
 const checkFilenameSettings = require('./util/check-filename-settings.js');
 
 module.exports = function(config) {

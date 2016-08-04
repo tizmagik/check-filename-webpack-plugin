@@ -1,7 +1,7 @@
 var webpack = require('webpack');
 var path = require('path');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
-var CheckFilenamePlugin = require('../index.js'); // use inside the npm package
+var CheckFilenamePlugin = require('../src/index.js'); // use inside the npm package
 var checkFilenameSettings = require('./util/check-filename-settings.js');
 
 // We use the NODE_ENV in our automation commands to differentiate environments

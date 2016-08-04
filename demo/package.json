@@ -2,7 +2,7 @@
   "name": "check-filename-webpack-plugin-demo",
   "version": "0.0.1",
   "engines": {
-    "node": "^4 || ^6"
+    "node": "^6"
   },
   "engine-strict": true,
   "description": "just a simple demo for showing config",
